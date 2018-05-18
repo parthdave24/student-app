@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring Boot Main App
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: kewalyadav
+Implementation-Vendor-Id: io.java.spring
+Build-Jdk: 1.8.0_162
+Implementation-URL: http://projects.spring.io/spring-boot/student-app/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
